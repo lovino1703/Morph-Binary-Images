@@ -38,5 +38,5 @@ pytest -q
 |---|---|
 | M1 | |
 | M2 | Repo & environment (T03) |
-| M3 | |
+| M3 | Test images & Otsu binarisation (T08) |
 | M4 | Article template (T04) |
